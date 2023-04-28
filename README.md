@@ -5,14 +5,16 @@
 I've included the .class files as well in order to run them directly
 
 ```bash
-java filename
+cd .class
+java {filename}
 ```
 
 ### To build and run
 
 ```bash
+cd .java
 javac {filename}.java
-java filename
+java {filename}
 ```
 
 
